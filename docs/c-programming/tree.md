@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Typography
-parent: UI Components
+title: Tree
+parent: C Programming
 nav_order: 1
 ---
 
-# Typography
+# Tree
 {: .no_toc }
 
 ## Table of contents
@@ -16,7 +16,7 @@ nav_order: 1
 
 ---
 
-## Font stack
+## Binary Tree General
 
 By default, Just the Docs uses a native system font stack for sans-serif fonts:
 
