@@ -18,7 +18,8 @@ nav_order: 1
 
 ## Binary Tree General
 
-By default, Just the Docs uses a native system font stack for sans-serif fonts:
+이진 트리에서의 최대 깊이
+ By default, Just the Docs uses a native system font stack for sans-serif fonts:
 
 ```scss
 system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Segoe UI Emoji"
